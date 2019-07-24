@@ -1,6 +1,6 @@
 <?php
 
-namespace drmonkeyninja;
+namespace proj_cert;
 
 class Average
 {
